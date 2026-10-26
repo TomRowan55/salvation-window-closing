@@ -1,2 +1,3 @@
 # salvation-window-closing
 Website html, css, js, files for website.
+These files are for a ministry website that aims to reach people who either believe that it is too late for them to be saved or that they have sinned too much for God to ever forgive them. It is to communicate the fact that the window on God's grace is soon closing based on the abundance of prophetic signs pointing to the culmination of the Age of Grace. Whether by death or Rapture the deadline for an unsaved individual's opportunity to accept God's free gift of forgiveness and salvation, through faith in His only Son Jesus Christ, is quickly approaching. That it is only too late when that person has drawn his last breath. 
