@@ -1,25 +1,130 @@
-body{margin:0;font-family:Georgia,serif;background:#F8F2E3;color:#333;line-height:1.7}header{background:#2c3e50;color:#fff;text-align:center;padding:40px 20px}nav{background:#1f2d3a;text-align:center;padding:12px}nav a{color:#fff;text-decoration:none;margin:0 12px;font-weight:bold}nav a:hover{color:#d4af37}main{max-width:1000px;margin:auto;padding:30px}h1,h2,h3{color:#2c3e50}.hero{background:#eef3f7;padding:60px 20px;text-align:center}.button{display:inline-block;background:#2c3e50;color:#fff;padding:12px 20px;text-decoration:none;border-radius:4px}.card{background:#fff;padding:20px;margin:20px 0;border-left:4px solid #d4af37;box-shadow:0 2px 5px rgba(0,0,0,.1)}.scripture,.salvation-box{background:#fff8dc;padding:20px;margin:25px 0;border:1px solid #d4af37}footer{background:#2c3e50;color:#fff;text-align:center;padding:20px;margin-top:40px}/* Site Title */
-h1{
-    color:#4a90d9;
-    font-size:2.8rem;
-    font-weight:bold;
-    text-align:center;
-    margin-bottom:10px;
+/* Global Page Styling */
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    background: #F8F2E3;
+    color: #333333;
+    line-height: 1.7;
+}
+
+/* Header */
+header {
+    background: #F8F2E3;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+/* Site Title */
+h1 {
+    color: #4A90D9;
+    font-size: 2.8rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/* Subtitle */
+header p {
+    font-size: 1.2rem;
+    color: #333333;
+    margin: 0;
+}
+
+/* Navigation */
+nav {
+    background: #1F2D3A;
+    text-align: center;
+    padding: 12px;
+}
+
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+    margin: 0 12px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #D4AF37;
+}
+
+/* Main Content Area */
+main {
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px;
+}
+
+/* Welcome Section */
+.hero {
+    background: #F8F2E3;
+    text-align: center;
+    padding: 60px 20px;
 }
 
 /* Page Headings */
-h2{
-    color:#001f5b;          /* Navy Blue */
-    font-size:2rem;
-    font-weight:700;
-    text-align:center;
-    margin-top:30px;
-    margin-bottom:20px;
+h2 {
+    color: #001F5B;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 /* Section Headings */
-h3{
-    color:#2c3e50;
-    font-size:1.4rem;
-    font-weight:600;
+h3 {
+    color: #2C3E50;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+/* Buttons */
+.button {
+    display: inline-block;
+    background: #2C3E50;
+    color: #FFFFFF;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.button:hover {
+    background: #1F2D3A;
+}
+
+/* Standard Content Cards */
+.card {
+    background: #FFFFFF;
+    padding: 20px;
+    margin: 20px 0;
+    border-left: 4px solid #D4AF37;
+    box-shadow: 0 2px 5px rgba(0,0,0,.1);
+}
+
+/* Featured Scripture Box */
+.scripture {
+    background: #FFFFFF;
+    padding: 20px;
+    margin: 20px 0;
+    border-left: 4px solid #D4AF37;
+    box-shadow: 0 2px 5px rgba(0,0,0,.1);
+}
+
+/* Salvation Invitation Box */
+.salvation-box {
+    background: #FFFFFF;
+    padding: 20px;
+    margin: 20px 0;
+    border-left: 4px solid #D4AF37;
+    box-shadow: 0 2px 5px rgba(0,0,0,.1);
+}
+
+/* Footer */
+footer {
+    background: #2C3E50;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
 }
